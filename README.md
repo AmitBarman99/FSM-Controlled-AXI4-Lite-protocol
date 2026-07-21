@@ -1,2 +1,2 @@
 # FSM-Controlled-AXI4-Lite-protocol
-This project focuses on the design and implementation of a Finite State Machine (FSM)-based controller for the AXI4-Lite communication protocol, which is widely used in System-on-Chip (SoC) designs.
+This project focuses on the design and implementation of a Finite State Machine (FSM)-based controller for the AXI4-Lite communication protocol, which is widely used in System-on-Chip (SoC) designs. The FSM manages the read and write transaction sequences, ensuring proper handshaking, data transfer, and control signal synchronization. The design is developed at the RTL level and verified through simulation to evaluate functionality, reliability, and performance.
